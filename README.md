@@ -1,10 +1,10 @@
 # dev-todo-readme
 1) Keep a streak going
-~~2) clone client-login-portal~~
-3) ensure get started button actually does something
-4) make sure the emails get properly stored in backend when submitted
-~~5) what is ui universe? https://uiverse.io/~~
-6) streamline updation of vercel-port
+2) Work on tnsv-blog-blob
+3) Get a basic blog going that uploads the html content and the href for the images to Mongodb
+   4) use TNSV for this
+   5) review old book-worm-blog for reference
+6) LATER: treamline updation of vercel-port
 -- it would look something like this
    -- git fetch the most recent copy
    -- make updates to the available projects to display
