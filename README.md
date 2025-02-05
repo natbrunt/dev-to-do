@@ -19,3 +19,6 @@
    - make updates to the available projects to display
    - make sure that that project is hyperlinked
    - have that example application be promoted to production on vercel
+
+** TNSV
+- TypeScript, NodeJS, Shadcn, v0.dev
