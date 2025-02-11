@@ -14,12 +14,13 @@
    - look into advertisement APIs
 4) basic blog `MERN`
    - same backend but the industry standard JavaScript create-react-app way with manually scripted css / tailwind components
-5) LATER: vercel-port streamline update process 
-   - it would look something like thi
-   - git fetch the most recent copy
-   - make updates to the available projects to display
-   - make sure that that project is hyperlinked
-   - have that example application be promoted to production on vercel
+5) All ideas:
+   - Vercel-port streamlined for updates
+   - ECommerce website with StripeJS implemented
+   - Basic Blog TNSV with Ads implemented and Stripe for donations
+   - Basic Blog MERN with the same idea as above
+   - OpenAI related web app service with the same as above
+   - Registration System with either TNSV or MERN, for example healthcare or a payment management system
 
 ** TNSV
 - TypeScript, NodeJS, Shadcn, v0.dev
