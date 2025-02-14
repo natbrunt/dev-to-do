@@ -4,6 +4,7 @@
    - frontend: allow frontend to make TypeScript axios requests to communicate with backend routes
      - ensure subit-article route works
      - ensure all admin pages have the isAuthenticated function on them
+     - When an article is clicked we should display just the data for that article on the entire page from the fetched data
    - backend: set up tnvs-blog routes
      - editting a post
      - uploading an image
