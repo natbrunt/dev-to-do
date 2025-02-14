@@ -2,9 +2,8 @@
 1) Keep a streak going
 2) basic blog `TNSV`
    - frontend: allow frontend to make TypeScript axios requests to communicate with backend routes
-     - chatgpt the info
-     - review Vanilla-JS-blog file structure
-     - setup the route in a debugging format
+     - ensure subit-article route works
+     - ensure all admin pages have the isAuthenticated function on them
    - backend: set up tnvs-blog routes
      - editting a post
      - uploading an image
