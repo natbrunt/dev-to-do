@@ -1,20 +1,18 @@
 # dev-todo-projects-readme
 1) Keep a streak going
 2) basic blog `TNSV`
-   - frontend: allow frontend to make TypeScript axios requests to communicate with backend routes
-     - ensure subit-article route works
-     - ensure all admin pages have the isAuthenticated function on them
-     - When an article is clicked we should display just the data for that article on the entire page from the fetched data
-   - backend: set up tnvs-blog routes
-     - editting a post
+   - Handling Version control
+     - create a new branch clone the public facing repo to it, when changes are made and i feel like publicizing it, I can directly clone it to the master of the public
+     - switch to process.env for axios requests
+     - 
+   - Backend image upload
+     - stream line backend for debugging process
      - uploading an image
         - multer is the recommended backend service which will be combined with ExpressJS and Nginx   
-   - user-credentials route will come later
    - implement StripeJS for donations
    - look into advertisement APIs
-4) basic blog `MERN`
-   - same backend but the industry standard JavaScript create-react-app way with manually scripted css / tailwind components
-5) All ideas:
+
+3) All ideas:
    - Vercel-port streamlined for updates
    - ECommerce website with StripeJS implemented
    - Basic Blog TNSV with Ads implemented and Stripe for donations
