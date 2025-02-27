@@ -1,19 +1,15 @@
 # dev-todo-projects-readme
 1) Keep a streak going
-2) basic blog `TNSV`
-   - Handling Version control
-     - create a new branch clone the public facing repo to it, when changes are made and i feel like publicizing it, I can directly clone it to the master of the public
-     - switch to process.env for axios requests
-     - 
+2) Nginx server
    - Backend image upload
      - stream line backend for debugging process
-     - uploading an image
+     - uploading an image (without a schema but directly to the static folder)
         - multer is the recommended backend service which will be combined with ExpressJS and Nginx   
    - implement StripeJS for donations
    - look into advertisement APIs
 
 3) All ideas:
-   - Vercel-port streamlined for updates
+   - njb-developer streamlined for updates
    - ECommerce website with StripeJS implemented
    - Basic Blog TNSV with Ads implemented and Stripe for donations
    - Basic Blog MERN with the same idea as above
